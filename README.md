@@ -15,18 +15,17 @@ Mouse Drug Data:  <br />
 - Drug
 
 ## As the Chief Data Analyst, I created the following visualizations to identify key findings: 
-Creating a scatter plot that shows how the tumor volume changes over time for each treatment
+Creating a scatter plot that shows how the tumor volume changes over time for each treatment <br />
+<img src = "results/tumor_response_treatment.png" width = "40%">
 
-Creating a scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment
+Creating a scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment <br />
 <img src = "results/metastatic_spread.png" width = "40%">
 
-Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate)
+Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate) <br />
+<img src = "results/survival_during_treatment.png" width = "40%">
 
-
-Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days.
-
-
-
+Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days <br />
+<img src = "results/tumor_change.png" width = "40%">
 
 
 
