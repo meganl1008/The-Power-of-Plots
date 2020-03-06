@@ -14,32 +14,29 @@ Mouse Drug Data:  <br />
 - Mouse ID
 - Drug
 
-## As the Chief Data Analyst, I created the following visualizations to identify key findings: 
-Creating a scatter plot that shows how the tumor volume changes over time for each treatment <br />
+## Data Visualizations
+Create a scatter plot to show how the tumor volume changes over time for each treatment <br />
 <img src = "results/tumor_response_treatment.png" width = "40%">
 
-Creating a scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment <br />
+Create a scatter plot that shows how the number of metastatic (cancer spreading) sites changes over time for each treatment <br />
 <img src = "results/metastatic_spread.png" width = "40%">
 
-Creating a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate) <br />
+Create a scatter plot that shows the number of mice still alive through the course of treatment (Survival Rate) <br />
 <img src = "results/survival_during_treatment.png" width = "40%">
 
-Creating a bar graph that compares the total % tumor volume change for each drug across the full 45 days <br />
-<img src = "results/tumor_change.png" width = "40%">
+Create a bar graph that compares the total % tumor volume change for each drug across the full 45 days <br />
+<img src = "results/tumor_change.png" width = "40%"> <br />
 
 
-
-
-
-
-
-
-
-
-<b> Conclusions: </b>
-
+## Analysis
 After the 45 days of treatment, mice that were treated with Capomulin showed the most decrease in tumor volume (19% decrease) while the other treatments showed an increase in tumor volume. 
 
 Mice that were treated with Ketapril had the largest metastatic spread after the 45 days   
 
-After the 45 days, Infubinol had a survival rate of below 40% (even lower than the survival rate for the placebo)
+Infubinol had a survival rate of below 40% (even lower than the survival rate for the placebo) after the 45 day span
+
+## Technologies/Tools
+For this project, I used the following tools:
+- Pandas
+- Matplotlib
+- NumPy
