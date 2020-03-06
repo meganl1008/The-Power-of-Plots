@@ -35,8 +35,8 @@ Mice that were treated with Ketapril had the largest metastatic spread after the
 
 Infubinol had a survival rate of below 40% (even lower than the survival rate for the placebo) after the 45 day span
 
-## Technologies/Tools
-For this project, I used the following tools:
+## Tools
+For this project, I used the following tools: <br />
 - Pandas
 - Matplotlib
 - NumPy
